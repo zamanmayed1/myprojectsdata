@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/1MLdbZt/strong-hub.png",
+        "name": "Strong Hub Manufacturer website",
+        "description": "This website based on Hammer or Steel related any people can visited and saw some product, Tailwind base Website and based of firebase, Deploy in heroku, Tailwind base Website, Implement login singup form, First we see the navbar and header and simple footer, After a user login he or she will see more option like my item add item etc,",
+        "liveUrl": "https://stronghub-9986c.web.app/",
+        "clinteCode": "https://github.com/zamanmayed1/StrongHub-Client",
+        "serverCode": "https://github.com/zamanmayed1/StrongHub-Server"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/x2LT3s1/stock.png",
+        "name": "StockRoom Warehouse Management.",
+        "description": "Stock Room - Store your product here. This is a Warehouse Management MERN Stack Website. You can manage your Warehouse with this. Its very easy to use. You Can Add, Delete, Edit All your Products and manage this easly. Its a best choose for your warehouse management. User Admin Panel, Easy All Inventory Management System, CURD Operation Aplied.",
+        "liveUrl": "https://stockroom-97369.web.app/",
+        "clinteCode": "https://github.com/zamanmayed1/warehouse-client",
+        "serverCode": "https://github.com/zamanmayed1/warehouse-server"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/RB0S1kQ/Screenshot-1.png",
+        "name": "Doctor portal website.",
+        "description": "Hassle-free 24×7 appointment bookings, Maintain patient records, Maintain medical history, Manage all encounters and process them, Add holidays and important events and notices, Provide customizable templates for clinic and patient management.",
+        "liveUrl": "https://onedoctor-6c2f1.web.app/",
+        "clinteCode": "https://github.com/zamanmayed1/oneDoctor",
+        "serverCode": "https://github.com/zamanmayed1/oneDoctor-server"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/L9HTdxv/photograper-alax.png",
+        "name": "Independent Service Provider .",
+        "description": "Responsive For Mobile and Leptop Screen No Reload Issues, Super Fast Image Load , Sign Up And Login Option, Social Sign in Option , Error Showing with Toast, Animated Image On about me Page.",
+        "liveUrl": "https://photographer-alex.web.app/",
+        "clinteCode": "https://github.com/zamanmayed1/Photographer-Alex"
+    }
+]
